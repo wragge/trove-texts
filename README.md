@@ -2,9 +2,7 @@
 
 OCRd text harvested from Trove's digitised journals.
 
-## Journals
-
-### The Bulletin
+## The Bulletin
 
 * [Browse texts](Bulletin/text)
 * [View issue metadata](Bulletin/bulletin_issues.csv)
