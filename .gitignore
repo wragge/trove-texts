@@ -1,3 +1,7 @@
 *.pyc
 .DS_Store
 Bulletin/images
+Home
+Bulletin/input*
+Bulletin/field_descriptions.json
+Bulletin/jsoncatalog.txt

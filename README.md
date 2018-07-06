@@ -9,8 +9,8 @@ OCRd text harvested from Trove's digitised journals.
 * [View metadata for issues without OCRd text](Bulletin/bulletin_issues_empty.csv)
 * View [harvesting notebook](https://github.com/wragge/ozglam-workbench/blob/master/Trove/Cookbook/Harvesting-data-from-the-Bulletin.ipynb) in the OzGLAM Workbench
 
-Report on harvest completed on 23 Jun 2018:
+Report on harvest completed on 06 Jul 2018:
 
-* metadata harvested for 4245 issues
-* ocr text harvested for 3407 issues
-* 838 issues contained no text
+* metadata harvested for 4628 issues
+* ocr text harvested for 3858 issues
+* 771 issues contained no text
