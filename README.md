@@ -10,6 +10,9 @@ OCRd text harvested from Trove's digitised journals.
 * [Download complete repository as a zip file](https://github.com/wragge/trove-texts/archive/master.zip)
 * View [harvesting notebook](https://github.com/wragge/ozglam-workbench/blob/master/Trove/Cookbook/Harvesting-data-from-the-Bulletin.ipynb) in the OzGLAM Workbench
 
+* [Browse Bulletin issues on Trove](https://nla.gov.au/nla.obj-68375465)
+* [Search for articles in Trove's digitised journals](https://trove-titles.herokuapp.com/)
+
 Report on harvest completed on 03 Aug 2018:
 
 * metadata harvested for 4635 issues
