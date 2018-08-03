@@ -7,6 +7,7 @@ OCRd text harvested from Trove's digitised journals.
 * [Browse texts](Bulletin/text)
 * [View issue metadata](Bulletin/bulletin_issues.csv)
 * [View metadata for issues without OCRd text](Bulletin/bulletin_issues_empty.csv)
+* [Download complete repository as a zip file](https://github.com/wragge/trove-texts/archive/master.zip)
 * View [harvesting notebook](https://github.com/wragge/ozglam-workbench/blob/master/Trove/Cookbook/Harvesting-data-from-the-Bulletin.ipynb) in the OzGLAM Workbench
 
 Report on harvest completed on 03 Aug 2018:
