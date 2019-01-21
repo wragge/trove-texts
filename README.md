@@ -4,11 +4,11 @@ OCRd text harvested from Trove's digitised journals.
 
 ## The Bulletin
 
-Report on harvest completed on 03 Aug 2018:
+Report on harvest completed on 21 Jan 2019:
 
-* metadata harvested for 4635 issues
-* ocr text harvested for 4465 issues
-* 171 issues contained no text
+* metadata harvested for 4645 issues
+* ocr text harvested for 4534 issues
+* 111 issues contained no text
 
 ### Data and code
 
